@@ -7,3 +7,4 @@ From the lines
 Shield by shield
 
 new content for git revert
+new content for a feature branch
