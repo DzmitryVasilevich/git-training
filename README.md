@@ -1,3 +1,3 @@
 # git-training
 
-non fast forward merge
+non fast forward merge checking again
